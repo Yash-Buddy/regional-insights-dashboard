@@ -1,0 +1,1802 @@
+[
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 5
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 23
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 23
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 1
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 16
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 3
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 8
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 48
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 10
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 37
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 38
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 46
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 49
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 46
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 48
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 38
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 11
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 26
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 27
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 18
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 2
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 11
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 15
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 4
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 43
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 3
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 21
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 13
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 29
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 36
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 20
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 41
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 39
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 3
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 14
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 8
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 49
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 4
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 38
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 14
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 8
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 49
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 2
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 26
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 48
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 5
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 26
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 49
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 46
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 19
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 31
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 9
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 23
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 22
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 14
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 15
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 47
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 45
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 33
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 50
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 26
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 17
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 29
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 37
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 45
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 9
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 21
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 6
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 13
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 5
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 11
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 4
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 19
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 40
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 18
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 24
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 48
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 5
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 3
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 14
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 45
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 12
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 41
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 14
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 10
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 46
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 49
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 31
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 31
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 6
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 36
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 11
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 11
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 37
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 24
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 25
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 8
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 50
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 8
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 45
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 3
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 44
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 22
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 33
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 25
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 40
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 45
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 31
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 29
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 34
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 25
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 35
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 9
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 10
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 15
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 7
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 27
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 37
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 46
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 35
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 18
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 33
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 19
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 21
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 9
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 26
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 50
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 2
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 17
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 41
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 18
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 39
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 11
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 41
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 15
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 9
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 14
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 37
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 43
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 14
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 6
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 19
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 44
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 13
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 29
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 4
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 34
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 21
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 29
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 13
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 3
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 40
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 34
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 5
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 21
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 20
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 44
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 44
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 45
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 18
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 43
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 50
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 45
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 24
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 24
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 37
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 9
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 29
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 49
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 47
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 10
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 38
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 33
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 20
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 33
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 43
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 3
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 32
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 28
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 4
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 35
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 13
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 22
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 27
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 1
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 38
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 4
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 35
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 37
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 42
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 50
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 37
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 41
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 2
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 34
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 1
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 44
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 23
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 37
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 41
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 26
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 24
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 21
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 41
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 43
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 28
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 24
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 16
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 43
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 1
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 13
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 16
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 19
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 46
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 37
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 27
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 48
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 44
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 30
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 19
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 15
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 41
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 1
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 1
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 23
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 13
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 16
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 5
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 45
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 47
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 44
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 11
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 33
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 49
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 18
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 43
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 7
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 10
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 16
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 32
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 4
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 29
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 47
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 27
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 50
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 35
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 18
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 2
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 9
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 5
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 33
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 48
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 9
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 11
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 11
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 50
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 44
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 8
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 50
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 13
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 26
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 50
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 24
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 31
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 36
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 14
+  },
+  {
+    "education": "Graduate",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 49
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 10
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 33
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 14
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 46
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "$40k-$80k",
+    "count": 40
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 11
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 35
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 33
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$120k+",
+    "count": 12
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$120k+",
+    "count": 7
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 4
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 17
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 10
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "$40k-$80k",
+    "count": 39
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "$80k-$120k",
+    "count": 28
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "$80k-$120k",
+    "count": 10
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 15
+  },
+  {
+    "education": "Graduate",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 3
+  },
+  {
+    "education": "High School",
+    "employment": "Unemployed",
+    "income": "$40k-$80k",
+    "count": 20
+  },
+  {
+    "education": "High School",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 1
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 49
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 50
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Unemployed",
+    "income": "<$40k",
+    "count": 47
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$80k-$120k",
+    "count": 15
+  },
+  {
+    "education": "Graduate",
+    "employment": "Underemployed",
+    "income": "<$40k",
+    "count": 17
+  },
+  {
+    "education": "Bachelor's",
+    "employment": "Employed",
+    "income": "<$40k",
+    "count": 2
+  },
+  {
+    "education": "High School",
+    "employment": "Employed",
+    "income": "$120k+",
+    "count": 46
+  }
+]

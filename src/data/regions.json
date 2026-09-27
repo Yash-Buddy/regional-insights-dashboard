@@ -1,0 +1,752 @@
+[
+  {
+    "state": "Alabama",
+    "medianIncome": 36483,
+    "educationPct": 44,
+    "employmentRate": 0.9,
+    "population": 5288918,
+    "industryMix": {
+      "Tech": 32,
+      "Healthcare": 20,
+      "Manufacturing": 8,
+      "Retail": 21,
+      "Agriculture": 7,
+      "Finance": 12
+    }
+  },
+  {
+    "state": "Alaska",
+    "medianIncome": 86413,
+    "educationPct": 34,
+    "employmentRate": 0.936,
+    "population": 9640954,
+    "industryMix": {
+      "Tech": 45,
+      "Healthcare": 21,
+      "Manufacturing": 19,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Arizona",
+    "medianIncome": 66723,
+    "educationPct": 56,
+    "employmentRate": 0.919,
+    "population": 8440473,
+    "industryMix": {
+      "Tech": 44,
+      "Healthcare": 21,
+      "Manufacturing": 12,
+      "Retail": 9,
+      "Agriculture": 9,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Arkansas",
+    "medianIncome": 38104,
+    "educationPct": 37,
+    "employmentRate": 0.861,
+    "population": 15512434,
+    "industryMix": {
+      "Tech": 23,
+      "Healthcare": 53,
+      "Manufacturing": 6,
+      "Retail": 7,
+      "Agriculture": 6,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "California",
+    "medianIncome": 87936,
+    "educationPct": 41,
+    "employmentRate": 0.883,
+    "population": 3593429,
+    "industryMix": {
+      "Tech": 46,
+      "Healthcare": 7,
+      "Manufacturing": 15,
+      "Retail": 5,
+      "Agriculture": 22,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Colorado",
+    "medianIncome": 92627,
+    "educationPct": 50,
+    "employmentRate": 0.974,
+    "population": 15682698,
+    "industryMix": {
+      "Tech": 69,
+      "Healthcare": 9,
+      "Manufacturing": 6,
+      "Retail": 5,
+      "Agriculture": 6,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Connecticut",
+    "medianIncome": 42306,
+    "educationPct": 43,
+    "employmentRate": 0.924,
+    "population": 6471304,
+    "industryMix": {
+      "Tech": 49,
+      "Healthcare": 19,
+      "Manufacturing": 11,
+      "Retail": 7,
+      "Agriculture": 5,
+      "Finance": 9
+    }
+  },
+  {
+    "state": "Delaware",
+    "medianIncome": 67102,
+    "educationPct": 33,
+    "employmentRate": 0.922,
+    "population": 14343860,
+    "industryMix": {
+      "Tech": 54,
+      "Healthcare": 22,
+      "Manufacturing": 9,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Florida",
+    "medianIncome": 75206,
+    "educationPct": 51,
+    "employmentRate": 0.917,
+    "population": 16364156,
+    "industryMix": {
+      "Tech": 9,
+      "Healthcare": 38,
+      "Manufacturing": 29,
+      "Retail": 7,
+      "Agriculture": 12,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Georgia",
+    "medianIncome": 62137,
+    "educationPct": 57,
+    "employmentRate": 0.854,
+    "population": 19724227,
+    "industryMix": {
+      "Tech": 18,
+      "Healthcare": 49,
+      "Manufacturing": 16,
+      "Retail": 7,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Hawaii",
+    "medianIncome": 37773,
+    "educationPct": 38,
+    "employmentRate": 0.868,
+    "population": 19000803,
+    "industryMix": {
+      "Tech": 43,
+      "Healthcare": 11,
+      "Manufacturing": 14,
+      "Retail": 7,
+      "Agriculture": 14,
+      "Finance": 11
+    }
+  },
+  {
+    "state": "Idaho",
+    "medianIncome": 93489,
+    "educationPct": 27,
+    "employmentRate": 0.95,
+    "population": 8484629,
+    "industryMix": {
+      "Tech": 23,
+      "Healthcare": 37,
+      "Manufacturing": 10,
+      "Retail": 14,
+      "Agriculture": 5,
+      "Finance": 11
+    }
+  },
+  {
+    "state": "Illinois",
+    "medianIncome": 57967,
+    "educationPct": 33,
+    "employmentRate": 0.952,
+    "population": 10228702,
+    "industryMix": {
+      "Tech": 35,
+      "Healthcare": 12,
+      "Manufacturing": 25,
+      "Retail": 17,
+      "Agriculture": 5,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Indiana",
+    "medianIncome": 71238,
+    "educationPct": 40,
+    "employmentRate": 0.96,
+    "population": 11306148,
+    "industryMix": {
+      "Tech": 9,
+      "Healthcare": 63,
+      "Manufacturing": 5,
+      "Retail": 12,
+      "Agriculture": 5,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Iowa",
+    "medianIncome": 65552,
+    "educationPct": 58,
+    "employmentRate": 0.918,
+    "population": 8832854,
+    "industryMix": {
+      "Tech": 23,
+      "Healthcare": 49,
+      "Manufacturing": 7,
+      "Retail": 5,
+      "Agriculture": 11,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Kansas",
+    "medianIncome": 55561,
+    "educationPct": 44,
+    "employmentRate": 0.912,
+    "population": 3089724,
+    "industryMix": {
+      "Tech": 66,
+      "Healthcare": 9,
+      "Manufacturing": 8,
+      "Retail": 5,
+      "Agriculture": 6,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Kentucky",
+    "medianIncome": 85351,
+    "educationPct": 61,
+    "employmentRate": 0.887,
+    "population": 5197623,
+    "industryMix": {
+      "Tech": 44,
+      "Healthcare": 19,
+      "Manufacturing": 8,
+      "Retail": 8,
+      "Agriculture": 6,
+      "Finance": 15
+    }
+  },
+  {
+    "state": "Louisiana",
+    "medianIncome": 52628,
+    "educationPct": 49,
+    "employmentRate": 0.891,
+    "population": 19072225,
+    "industryMix": {
+      "Tech": 31,
+      "Healthcare": 40,
+      "Manufacturing": 8,
+      "Retail": 6,
+      "Agriculture": 10,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Maine",
+    "medianIncome": 54326,
+    "educationPct": 46,
+    "employmentRate": 0.924,
+    "population": 12789525,
+    "industryMix": {
+      "Tech": 43,
+      "Healthcare": 8,
+      "Manufacturing": 14,
+      "Retail": 14,
+      "Agriculture": 12,
+      "Finance": 9
+    }
+  },
+  {
+    "state": "Maryland",
+    "medianIncome": 84505,
+    "educationPct": 56,
+    "employmentRate": 0.858,
+    "population": 11236916,
+    "industryMix": {
+      "Tech": 23,
+      "Healthcare": 49,
+      "Manufacturing": 11,
+      "Retail": 6,
+      "Agriculture": 5,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Massachusetts",
+    "medianIncome": 51225,
+    "educationPct": 39,
+    "employmentRate": 0.946,
+    "population": 17483542,
+    "industryMix": {
+      "Tech": 54,
+      "Healthcare": 9,
+      "Manufacturing": 21,
+      "Retail": 6,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Michigan",
+    "medianIncome": 63013,
+    "educationPct": 46,
+    "employmentRate": 0.936,
+    "population": 19725813,
+    "industryMix": {
+      "Tech": 50,
+      "Healthcare": 21,
+      "Manufacturing": 14,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Minnesota",
+    "medianIncome": 73420,
+    "educationPct": 65,
+    "employmentRate": 0.93,
+    "population": 19767312,
+    "industryMix": {
+      "Tech": 24,
+      "Healthcare": 51,
+      "Manufacturing": 10,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Mississippi",
+    "medianIncome": 42395,
+    "educationPct": 24,
+    "employmentRate": 0.935,
+    "population": 10455594,
+    "industryMix": {
+      "Tech": 40,
+      "Healthcare": 19,
+      "Manufacturing": 10,
+      "Retail": 12,
+      "Agriculture": 5,
+      "Finance": 14
+    }
+  },
+  {
+    "state": "Missouri",
+    "medianIncome": 60863,
+    "educationPct": 33,
+    "employmentRate": 0.904,
+    "population": 10311204,
+    "industryMix": {
+      "Tech": 56,
+      "Healthcare": 24,
+      "Manufacturing": 5,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Montana",
+    "medianIncome": 45560,
+    "educationPct": 20,
+    "employmentRate": 0.959,
+    "population": 17170344,
+    "industryMix": {
+      "Tech": 62,
+      "Healthcare": 5,
+      "Manufacturing": 12,
+      "Retail": 7,
+      "Agriculture": 7,
+      "Finance": 7
+    }
+  },
+  {
+    "state": "Nebraska",
+    "medianIncome": 83140,
+    "educationPct": 24,
+    "employmentRate": 0.929,
+    "population": 8470875,
+    "industryMix": {
+      "Tech": 38,
+      "Healthcare": 38,
+      "Manufacturing": 8,
+      "Retail": 6,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Nevada",
+    "medianIncome": 63090,
+    "educationPct": 28,
+    "employmentRate": 0.922,
+    "population": 9332393,
+    "industryMix": {
+      "Tech": 17,
+      "Healthcare": 23,
+      "Manufacturing": 32,
+      "Retail": 16,
+      "Agriculture": 5,
+      "Finance": 7
+    }
+  },
+  {
+    "state": "New Hampshire",
+    "medianIncome": 41050,
+    "educationPct": 28,
+    "employmentRate": 0.931,
+    "population": 7955416,
+    "industryMix": {
+      "Tech": 74,
+      "Healthcare": 6,
+      "Manufacturing": 5,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "New Jersey",
+    "medianIncome": 91433,
+    "educationPct": 23,
+    "employmentRate": 0.917,
+    "population": 16629546,
+    "industryMix": {
+      "Tech": 35,
+      "Healthcare": 29,
+      "Manufacturing": 10,
+      "Retail": 9,
+      "Agriculture": 6,
+      "Finance": 11
+    }
+  },
+  {
+    "state": "New Mexico",
+    "medianIncome": 94823,
+    "educationPct": 64,
+    "employmentRate": 0.907,
+    "population": 15498647,
+    "industryMix": {
+      "Tech": 74,
+      "Healthcare": 5,
+      "Manufacturing": 6,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "New York",
+    "medianIncome": 90738,
+    "educationPct": 52,
+    "employmentRate": 0.975,
+    "population": 7147516,
+    "industryMix": {
+      "Tech": 40,
+      "Healthcare": 28,
+      "Manufacturing": 15,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 7
+    }
+  },
+  {
+    "state": "North Carolina",
+    "medianIncome": 57431,
+    "educationPct": 25,
+    "employmentRate": 0.911,
+    "population": 2717258,
+    "industryMix": {
+      "Tech": 69,
+      "Healthcare": 10,
+      "Manufacturing": 5,
+      "Retail": 6,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "North Dakota",
+    "medianIncome": 36080,
+    "educationPct": 60,
+    "employmentRate": 0.934,
+    "population": 6196865,
+    "industryMix": {
+      "Tech": 41,
+      "Healthcare": 25,
+      "Manufacturing": 8,
+      "Retail": 9,
+      "Agriculture": 12,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Ohio",
+    "medianIncome": 73322,
+    "educationPct": 36,
+    "employmentRate": 0.921,
+    "population": 4977840,
+    "industryMix": {
+      "Tech": 29,
+      "Healthcare": 32,
+      "Manufacturing": 11,
+      "Retail": 13,
+      "Agriculture": 7,
+      "Finance": 8
+    }
+  },
+  {
+    "state": "Oklahoma",
+    "medianIncome": 52977,
+    "educationPct": 43,
+    "employmentRate": 0.945,
+    "population": 4789685,
+    "industryMix": {
+      "Tech": 27,
+      "Healthcare": 35,
+      "Manufacturing": 15,
+      "Retail": 8,
+      "Agriculture": 10,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Oregon",
+    "medianIncome": 68905,
+    "educationPct": 63,
+    "employmentRate": 0.867,
+    "population": 18969993,
+    "industryMix": {
+      "Tech": 25,
+      "Healthcare": 48,
+      "Manufacturing": 9,
+      "Retail": 7,
+      "Agriculture": 6,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Pennsylvania",
+    "medianIncome": 60562,
+    "educationPct": 32,
+    "employmentRate": 0.959,
+    "population": 2229052,
+    "industryMix": {
+      "Tech": 11,
+      "Healthcare": 42,
+      "Manufacturing": 19,
+      "Retail": 10,
+      "Agriculture": 11,
+      "Finance": 7
+    }
+  },
+  {
+    "state": "Rhode Island",
+    "medianIncome": 90477,
+    "educationPct": 23,
+    "employmentRate": 0.911,
+    "population": 12912012,
+    "industryMix": {
+      "Tech": 65,
+      "Healthcare": 7,
+      "Manufacturing": 13,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "South Carolina",
+    "medianIncome": 82541,
+    "educationPct": 29,
+    "employmentRate": 0.882,
+    "population": 9601190,
+    "industryMix": {
+      "Tech": 21,
+      "Healthcare": 43,
+      "Manufacturing": 13,
+      "Retail": 13,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "South Dakota",
+    "medianIncome": 61919,
+    "educationPct": 28,
+    "employmentRate": 0.917,
+    "population": 17504162,
+    "industryMix": {
+      "Tech": 31,
+      "Healthcare": 41,
+      "Manufacturing": 5,
+      "Retail": 12,
+      "Agriculture": 5,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Tennessee",
+    "medianIncome": 46246,
+    "educationPct": 53,
+    "employmentRate": 0.927,
+    "population": 2873409,
+    "industryMix": {
+      "Tech": 13,
+      "Healthcare": 57,
+      "Manufacturing": 15,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Texas",
+    "medianIncome": 73400,
+    "educationPct": 26,
+    "employmentRate": 0.943,
+    "population": 3888325,
+    "industryMix": {
+      "Tech": 32,
+      "Healthcare": 5,
+      "Manufacturing": 31,
+      "Retail": 8,
+      "Agriculture": 13,
+      "Finance": 11
+    }
+  },
+  {
+    "state": "Utah",
+    "medianIncome": 41989,
+    "educationPct": 22,
+    "employmentRate": 0.869,
+    "population": 18058870,
+    "industryMix": {
+      "Tech": 43,
+      "Healthcare": 20,
+      "Manufacturing": 14,
+      "Retail": 8,
+      "Agriculture": 9,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Vermont",
+    "medianIncome": 86860,
+    "educationPct": 54,
+    "employmentRate": 0.871,
+    "population": 2244766,
+    "industryMix": {
+      "Tech": 74,
+      "Healthcare": 5,
+      "Manufacturing": 6,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Virginia",
+    "medianIncome": 82647,
+    "educationPct": 49,
+    "employmentRate": 0.956,
+    "population": 1806564,
+    "industryMix": {
+      "Tech": 16,
+      "Healthcare": 56,
+      "Manufacturing": 13,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  },
+  {
+    "state": "Washington",
+    "medianIncome": 36606,
+    "educationPct": 34,
+    "employmentRate": 0.966,
+    "population": 9266892,
+    "industryMix": {
+      "Tech": 51,
+      "Healthcare": 21,
+      "Manufacturing": 10,
+      "Retail": 5,
+      "Agriculture": 5,
+      "Finance": 8
+    }
+  },
+  {
+    "state": "West Virginia",
+    "medianIncome": 80467,
+    "educationPct": 63,
+    "employmentRate": 0.871,
+    "population": 13638739,
+    "industryMix": {
+      "Tech": 20,
+      "Healthcare": 14,
+      "Manufacturing": 28,
+      "Retail": 15,
+      "Agriculture": 17,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Wisconsin",
+    "medianIncome": 71358,
+    "educationPct": 56,
+    "employmentRate": 0.925,
+    "population": 13668877,
+    "industryMix": {
+      "Tech": 7,
+      "Healthcare": 50,
+      "Manufacturing": 15,
+      "Retail": 7,
+      "Agriculture": 15,
+      "Finance": 6
+    }
+  },
+  {
+    "state": "Wyoming",
+    "medianIncome": 42623,
+    "educationPct": 21,
+    "employmentRate": 0.954,
+    "population": 9182487,
+    "industryMix": {
+      "Tech": 65,
+      "Healthcare": 11,
+      "Manufacturing": 8,
+      "Retail": 6,
+      "Agriculture": 5,
+      "Finance": 5
+    }
+  }
+]
