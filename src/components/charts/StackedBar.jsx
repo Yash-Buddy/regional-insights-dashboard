@@ -32,7 +32,7 @@ export default function StackedBar() {
       .join('rect')
       .attr('x', d => x(d[0]))
       .attr('y', d => y(d.state))
-      .attr('width', 0) // starts collapsed, animates in below
+      .attr('width', 0)
       .attr('height', y.bandwidth())
       .style('cursor', 'pointer');
 
@@ -71,14 +71,7 @@ export default function StackedBar() {
       .attr('transform', `translate(${margin.left},0)`)
       .call(d3.axisLeft(y))
       .attr('color', '#9ca3af');
-  }, [regions]);
 
-    svg.append('g')
-      .attr('transform', `translate(${margin.left},0)`)
-      .call(d3.axisLeft(y))
-      .attr('color', '#9ca3af');
-
-    // ▼ NEW: annotation on the top state's bar
     svg.append('text')
       .attr('x', width - margin.right - 6)
       .attr('y', y(top10[0].state) + y.bandwidth() / 2)
@@ -87,10 +80,8 @@ export default function StackedBar() {
       .attr('fill', '#fff')
       .attr('font-size', 10)
       .text('Highest income ▸');
-    // ▲ END NEW
-
   }, [regions]);
-  
+
   return (
     <div className="relative bg-[#161619] border border-[#2a2a30] rounded-2xl p-4">
       <h2 className="text-white font-semibold mb-1">Industry Mix (Top 10 States by Income)</h2>
